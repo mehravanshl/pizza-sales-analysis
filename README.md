@@ -24,3 +24,29 @@ Language: SQL
 IDE: MySQL Workbench
 
 Dataset: Pizza sales dataset (CSV imported into MySQL)
+
+## 📊 Key Analysis Performed
+
+Total number of orders
+
+Total revenue generated
+
+Most popular pizza by quantity sold
+
+Revenue by pizza category and size
+
+Monthly and daily sales trends
+
+Top 5 highest-selling pizzas
+
+Average order value
+
+## 📈 Insights & Results
+
+Identified top-performing pizzas contributing maximum revenue
+
+Found peak sales hours and high-demand days
+
+Observed customer preference based on pizza size and category
+
+Helped in understanding inventory and pricing strategies
