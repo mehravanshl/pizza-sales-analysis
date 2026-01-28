@@ -1,9 +1,9 @@
-#🍕 Pizza Sales Management System (SQL Project)
+# 🍕 Pizza Sales Management System (SQL Project)
  Project Overview
 The Pizza Sales Management System is a data analysis project built using MySQL to analyze pizza sales data and generate meaningful business insights.
 This project helps understand sales performance, customer behavior, revenue trends, and product popularity, which are essential for decision-making in the food industry.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Analyze pizza sales data using SQL
 
@@ -15,7 +15,7 @@ Perform time-based analysis (daily, monthly sales)
 
 Improve business decisions using data insights
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Database: MySQL
 
